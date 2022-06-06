@@ -30,17 +30,18 @@
 全角标点修复文件和新元素字库文件来源于 `CFPA-Team` 的 [Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)。
 
 ## 汉化采用协议
-
-汉化部分采用 CC-BY-NC-SA 协议。
+采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)（[简体中文](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)）进行许可，协议全文可 [在此](./LICENSE) 找到。<br>
 
 ## 最后
 
 汉化作者联系方式：
-- Bilibili@捂脸祖 
+- [Bilibili@捂脸祖](https://m.bilibili.com/space/449728222/)
 - 邮箱1055917385@qq.com
 - QQ 1055917385
-- Discord:Wulian#1184
-如有汉化BUG可以在 [问题追踪器](https://github.com/Wulian233/FTB-Sky-Odyssey-Translation/issues) 递交意见，或者直接通过以上联系方式递交意见或建议。<br>
+- Discord:Wulian#1184<br>
+如有汉化BUG可以在 [汉化问题追踪器](https://github.com/Wulian233/FTB-Sky-Odyssey-Translation/issues) 递交意见，或者直接通过以上联系方式递交意见或建议。<br>
+
+[整合包github主页(已停更关闭)](https://github.com/FTBTeam/FTB-Sky-Odyssey/)
 英语水平有限，可能有类似机翻，润色能力比较差，所以用了一些梗来润色，比如从前有个魔仙堡等等。第一次做整合包汉化，请多多包涵。
 
 欢迎更多的人参与到汉化工作中。
