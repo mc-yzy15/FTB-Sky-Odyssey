@@ -1,0 +1,313 @@
+{
+    "images":
+    {
+		"modpack":
+		{
+            "image" : "mainmenu:modpack.png",
+            "posX" : -260,
+            "posY" : -115,
+            "width" : 260,
+            "height" : 80,
+            "alignment" : "right_center"
+		}
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "\u5355\u4eba\u6e38\u620f",
+            "posX" : -185,
+            "posY" : -35,
+			"textOffsetX" : 0,
+			"textOffsetY" : 0,
+            "width" : 110,
+            "height" : 20,
+			"imageWidth" : 652,
+			"imageHeight" : 113,
+            "normalTextColor" : 3299201,
+			"hoverTextColor" : 3998742,
+			"alignment" : "right_center",
+			"texture" : "mainmenu:button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        "multiplayer":
+        {
+            "text" : "\u591a\u4eba\u6e38\u620f",
+            "posX" : -185,
+            "posY" : -15,
+			"textOffsetX" : 0,
+			"textOffsetY" : 0,
+            "width" : 110,
+            "height" : 20,
+			"imageWidth" : 652,
+			"imageHeight" : 113,
+            "normalTextColor" : 3299201,
+			"hoverTextColor" : 3998742,
+			"alignment" : "right_center",
+			"texture" : "mainmenu:button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        "options":
+        {
+            "text" : "\u8bbe\u7f6e",
+            "posX" : -185,
+            "posY" : 5,
+			"textOffsetX" : 0,
+			"textOffsetY" : 0,
+            "width" : 110,
+            "height" : 20,
+			"imageWidth" : 652,
+			"imageHeight" : 113,
+            "normalTextColor" : 3299201,
+			"hoverTextColor" : 3998742,
+			"alignment" : "right_center",
+			"texture" : "mainmenu:button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },		
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : -185,
+            "posY" : 25,
+			"textOffsetX" : 0,
+			"textOffsetY" : 0,
+            "width" : 110,
+            "height" : 20,
+			"imageWidth" : 652,
+			"imageHeight" : 113,
+            "normalTextColor" : 3299201,
+			"hoverTextColor" : 3998742,
+			"alignment" : "right_center",
+			"texture" : "mainmenu:button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+        "support":
+        {
+            "text" : "\u95ee\u9898\u8ffd\u8e2a\u5668",
+            "posX" : -185,
+            "posY" : 45,
+			"textOffsetX" : 0,
+			"textOffsetY" : 0,
+            "width" : 110,
+            "height" : 20,
+			"imageWidth" : 652,
+			"imageHeight" : 113,
+            "normalTextColor" : 3299201,
+			"hoverTextColor" : 3998742,
+			"alignment" : "right_center",
+			"texture" : "mainmenu:button.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/FTBTeam/FTB-Sky-Odyssey/issues"
+            }
+        },		
+        "changelog":
+        {
+            "text" : "\u66f4\u65b0\u65e5\u5fd7",
+            "posX" : -185,
+            "posY" : 65,
+			"textOffsetX" : 0,
+			"textOffsetY" : 0,
+            "width" : 110,
+            "height" : 20,
+			"imageWidth" : 652,
+			"imageHeight" : 113,
+            "normalTextColor" : 3299201,
+			"hoverTextColor" : 3998742,
+			"alignment" : "right_center",
+			"texture" : "mainmenu:button.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://www.feed-the-beast.com/projects/ftb-sky-odyssey/files"
+            }
+        },
+        "credits":
+        {
+            "text" : "\u8d21\u732e\u8005\u540d\u5355",
+            "posX" : -185,
+            "posY" : 85,
+			"textOffsetX" : 0,
+			"textOffsetY" : 0,
+            "width" : 110,
+            "height" : 20,
+			"imageWidth" : 652,
+			"imageHeight" : 113,
+            "normalTextColor" : 3299201,
+			"hoverTextColor" : 3998742,
+			"alignment" : "right_center",
+			"texture" : "mainmenu:button.png",
+            "wrappedButton" : 564246764
+        
+        },
+        "quit":
+        {
+            "text" : "\u9000\u51fa\u6e38\u620f",
+            "posX" : -185,
+            "posY" : 95,
+			"textOffsetX" : 0,
+			"textOffsetY" : 0,
+            "width" : 110,
+            "height" : 20,
+			"imageWidth" : 652,
+			"imageHeight" : 113,
+            "normalTextColor" : 3299201,
+			"hoverTextColor" : 3998742,
+			"alignment" : "right_center",
+			"texture" : "mainmenu:button.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        "language":
+        {
+            "text" : "",
+            "posX" : -22,
+            "posY" : 1,
+            "width" : 20,
+            "height" : 20,
+			"tooltip": "\u8bed\u8a00",
+			"alignment" : "top_right",
+			"imageWidth": "40",
+			"imageHeight": "40",
+			"texture" : "mainmenu:lang.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        "website":
+        {
+            "text" : "",
+            "posX" : -22,
+            "posY" : 20,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_right",
+			"tooltip": "FTB\u5b98\u7f51",
+			"texture" : "mainmenu:web.png",
+			"imageWidth": "40",
+			"imageHeight": "40",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "http://www.feed-the-beast.com/"
+            }
+        },
+        "creeperhost":
+        {
+            "text" : "",
+            "posX" : -22,
+            "posY" : 39,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_right",
+			"tooltip": "\u73b0\u5728\u5f00\u4e2a\u670d\u52a1\u5668",
+			"texture" : "mainmenu:creeperhost.png",
+			"imageWidth": "40",
+			"imageHeight": "40",
+            "wrappedButton" : 30051988
+        },
+        "wulian":
+        {
+            "text" : "",
+            "posX" : -22,
+            "posY" : 58,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_right",
+			"tooltip": "\u6c49\u5316\u4f5c\u8005\u6342\u8138derB\u7ad9",
+			"texture" : "mainmenu:wulian.png",
+			"imageWidth": "72",
+			"imageHeight": "72",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://m.bilibili.com/space/449728222/"
+            }
+        },
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 0,
+            "posY" : 0,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_left",
+            "texture" : "mainmenu:refresh.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }	
+    },
+    
+    "labels":
+    {
+		"forge":{
+			"text" : "Forge #forgeversion#",
+            "posX" : 2,
+            "posY" : -13,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modsloaded":{
+			"text" : "#modsloaded# \u4e2aMod\u5df2\u52a0\u8f7d",
+            "posX" : 2,
+            "posY" : -7,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"minecraft":{
+			"text" : "Minecraft 1.12.2",
+            "posX" : -46,
+            "posY" : -13,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_right"
+		},
+		"mojang":{
+            "text" : "Copyright Mojang AB",
+            "posX" : -57,
+            "posY" : -7,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+    
+    "other":
+    {
+		"background":
+		{
+			"image" : "mainmenu:background.png",
+			"mode" : "fill"
+		}
+    }
+}

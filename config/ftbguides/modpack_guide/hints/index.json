@@ -1,0 +1,72 @@
+[
+	{
+		"id": "ore_excavator",
+		"title": "连锁挖矿",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "yabba",
+		"title": "YABBA储物桶",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "bonsai",
+		"title": "盆栽盆",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "miner",
+		"title": "货币矿机",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "power_flower",
+		"title": "力量花盆栽罐",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "bonemeal",
+		"title": "骨粉",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "personal_link",
+		"title": "个人EMC接口",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "tardis_generator",
+		"title": "塔迪斯(Tardis)发电机",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "emc",
+		"title": "关于生产队的驴怎么造EMC",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "uu_matter",
+		"title": "UU物质",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "nether",
+		"title": "下界",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "end",
+		"title": "重要：怎么去末地",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "dim_x",
+		"title": "最终目标：前往奥德赛世界",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "money",
+		"title": "造钱的提示",
+		"icon": "item:minecraft:writable_book"
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"id": "island",
+		"title": "选择岛屿",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "teams",
+		"title": "团队",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "shop",
+		"title": "商店",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "quest_hub",
+		"title": "任务系统",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "task_screens",
+		"title": "任务显示器",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "loot_crates",
+		"title": "战利品箱",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "thaumcraft",
+		"title": "神秘时代",
+		"icon": "item:minecraft:writable_book"
+	}
+]
