@@ -1,0 +1,12 @@
+[
+	{
+		"id": "tardis_generator",
+		"title": "魔改:自动建造塔迪斯发电机！",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "about",
+		"title": "关于汉化",
+		"icon": "item:minecraft:writable_book"
+	}
+]
