@@ -176,6 +176,6 @@ recipes.addShapeless(fullTome, [<minecraft:dirt>]);
 
 // Book Tooltip
 	fullTome.addTooltip(format.aqua("这本书预装了所有的Mod手册和指南！"));
-	mods.jei.JEI.addDescription(fullTome, "我们听说你喜欢书...");
+	mods.jei.JEI.addDescription(fullTome, "我们听说你喜欢书……");
 
 print("Initialized 'AkashicTome.zs'");
