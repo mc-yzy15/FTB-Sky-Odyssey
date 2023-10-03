@@ -1,5 +1,5 @@
 # FTB-Sky-Odyssey-Translation
-## 注意！这是文件覆盖补丁，不包括整合包安装！请去启动器内下载整合包再解压此汉化文件！
+## FTB天空奥德赛汉化补丁
 ## 汉化使用方式
  1. 找到release内最新版本；
 
@@ -10,8 +10,6 @@
 ## 使用困惑解答
 汉化补丁为zip格式，只需要将压缩包解压到游戏主目录下，而后选择解压到当前文件夹即可。如果出现合并文件夹/覆盖文件提示，点击全部合并/全部覆盖即可。
 
-你如果在服务器游玩中发现没有汉化，请向服主询问服务端是否也打上了汉化补丁。(服务端汉化方法一致)
-
 ## 更改内容 
 
 增加了3个模组：
@@ -21,22 +19,18 @@
 
 ## 汉化作者：
 
-`Wulian233` 汉化图片标题及整合包所有内容。
-
+`Wulian233` 捂脸汉化图片标题及整合包所有内容。
 
 ## 汉化采用协议
-采用 MPL-2.0 license进行许可，协议全文可 [在此](./LICENSE) 找到。<br>
+采用 MPL-2.0 协议进行许可，协议全文可 [在此](./LICENSE) 找到。<br>
 
 ## 最后
 
 汉化作者联系方式：
 - [Bilibili@捂脸祖](https://m.bilibili.com/space/449728222/)
 - 邮箱1055917385@qq.com
-- QQ 1055917385
-- Discord:Wulian#1184<br>
-- [网站](https://vmct-cn.top/odyssey/index.html)
+- QQ 1055917385<br>
+- [网站](https://vmct-cn.top/modpacks/odyssey/)
 如有汉化BUG可以在 [汉化问题追踪器](https://github.com/Wulian233/FTB-Sky-Odyssey-Translation/issues) 递交意见，或者直接通过以上联系方式递交意见或建议。<br>
 
 整合包[github主页(已停更关闭)](https://github.com/FTBTeam/FTB-Sky-Odyssey/)<br>
-
-英语水平有限，可能有类似机翻。所以用了一些梗润色，比如从前有个魔仙堡等等。第一次做整合包汉化，请多多包涵。
