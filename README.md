@@ -29,5 +29,5 @@
 - [Bilibili@捂脸祖](https://m.bilibili.com/space/449728222/)
 - 邮箱1055917385@qq.com
 - QQ 1055917385<br>
-- [网站](https://vmct-cn.top/modpacks/odyssey/)
-如有汉化BUG可以在 [汉化问题追踪器](https://github.com/Wulian233/FTB-Sky-Odyssey-Translation/issues) 递交意见，或者直接通过以上联系方式递交意见或建议。<br>
+- 汉化介绍[网站](https://vmct-cn.top/modpacks/odyssey/)
+如有汉化BUG可以在直接通过以上联系方式递交意见或建议。<br>
