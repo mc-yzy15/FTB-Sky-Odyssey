@@ -97,3 +97,5 @@ Chinese author Contact:
 - QQ 1055917385<br>
 - Introduction to Chinese [Website](https://vmct-cn.top/modpacks/odyssey/)
 If there are Chinese bugs, you can directly submit comments or suggestions through the above contact information. <br>
+
+EDIT　 WITH mc-yzy15
