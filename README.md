@@ -31,3 +31,69 @@
 - QQ 1055917385<br>
 - 汉化介绍[网站](https://vmct-cn.top/modpacks/odyssey/)
 如有汉化BUG可以在直接通过以上联系方式递交意见或建议。<br>
+
+EN:
+
+## FTB Sky Odyssey Chinese patch
+## Chinese usage
+## FTB Sky Odyssey Chinese patch
+## Chinese usage
+1. Find the latest version in release.
+
+2. Download the Chinese compressed package;
+
+3. After downloading the compressed package, overwrite and decompress it to the MC directory, that is, under the mods folder;
+
+## How to use
+The Chinese patch is in zip format. You only need to decompress the compressed package to the main directory of the game, and then select the current folder to decompress. If you are prompted to merge folders/overwrite files, click Merge All/Overwrite all.
+
+## Change the content
+
+Added 2 modules:
+1. i18n Automatic Chinese update module: Used to translate modules that do not support Chinese, automatically enabled after download.
+2. [tongyong pinyin search] (https://www.mcmod.cn/class/840.html) : this module can use pinyin search JEI, etc. The content of the input box.
+
+## Chinese Author:
+
+'Wulian233' Facepalm Chinese picture title and integration package all content.
+
+## Chinese adoption agreement
+It is licensed under the MPL-2.0 protocol, the full text of which can be found [here](./LICENSE). <br>
+
+## Finally
+
+Chinese author Contact:
+- [Bilibili @ wu face to face] (https://m.bilibili.com/space/449728222/)
+- Email 1055917385@qq.com
+- QQ 1055917385<br>
+- Introduction to Chinese [Website](https://vmct-cn.top/modpacks/odyssey/)
+If there are Chinese bugs, you can directly submit comments or suggestions through the above contact information. <br>1. Find the latest version in release;
+
+2. Download the Chinese compressed package;
+
+3. After downloading the compressed package, overwrite and decompress it to the MC directory, that is, under the mods folder;
+
+## How to use
+The Chinese patch is in zip format. You only need to decompress the compressed package to the main directory of the game, and then select the current folder to decompress. If you are prompted to merge folders/overwrite files, click Merge All/Overwrite all.
+
+## Change the content
+
+Added 2 modules:
+1. i18n Automatic Chinese update module: Used to translate modules that do not support Chinese, automatically enabled after download.
+2. [tongyong pinyin search] (https://www.mcmod.cn/class/840.html) : this module can use pinyin search JEI, etc. The content of the input box.
+
+## Chinese Author:
+
+'Wulian233' Facepalm Chinese picture title and integration package all content.
+
+## Chinese adoption agreement
+It is licensed under the MPL-2.0 protocol, the full text of which can be found [here](./LICENSE). <br>
+
+## Finally
+
+Chinese author Contact:
+- [Bilibili @ wu face to face] (https://m.bilibili.com/space/449728222/)
+- Email 1055917385@qq.com
+- QQ 1055917385<br>
+- Introduction to Chinese [Website](https://vmct-cn.top/modpacks/odyssey/)
+If there are Chinese bugs, you can directly submit comments or suggestions through the above contact information. <br>
